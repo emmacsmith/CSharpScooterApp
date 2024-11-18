@@ -1,0 +1,14 @@
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\bin\Debug\net8.0\ScooterAppCSharp.exe
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\bin\Debug\net8.0\ScooterAppCSharp.deps.json
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\bin\Debug\net8.0\ScooterAppCSharp.runtimeconfig.json
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\bin\Debug\net8.0\ScooterAppCSharp.dll
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\bin\Debug\net8.0\ScooterAppCSharp.pdb
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.AssemblyInfoInputs.cache
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.AssemblyInfo.cs
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.dll
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\refint\ScooterAppCSharp.dll
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.pdb
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ScooterAppCSharp.genruntimeconfig.cache
+C:\Users\emmac\Desktop\C#\ScooterAppCSharp\obj\Debug\net8.0\ref\ScooterAppCSharp.dll
